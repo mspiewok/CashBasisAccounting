@@ -1,0 +1,27 @@
+To: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit To: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit http://localhost:56786/api/UserAccount?id=eaf405a5-273f-4560-a17e-a7d13be9a80c&token=CfDJ8Ble2LspQa5Jo%2FBTIJmKT5%2Blyo3sP2AqbdEdALbXxlfzhExv09rAdPDyW6i9NRmG26IKHKGuIy2%2FZ7W4zA%2Bu8O5BJNflWw8ipe8yagSVpJAVbHudGvq%2FJkFlGxyP1IgXUtxjoknXiGinPZ4GZJ3RaCEfOEyqZv3VEwpe%2Fh2q6x9jLKHzRhq8zMn31TgD2p8kFPNUaWM4Q6J4FjRc%2BvdlyWEFA4u3jax8qExi38l5rwBa3kqMUlzFSyx5LFEIU%2BFu0A%3D%3DTo: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit To: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit http://localhost:56786/api/UserAccount/VerifyEmail/5579ed4f-ef3d-4841-8e5d-7211391b3fe0?token=CfDJ8Ble2LspQa5Jo%2FBTIJmKT5%2BfGcrOlwLFyGfBctOytA1G1Y5hcc4wRNKwOitsYPKgD%2FEabdcWWGrCISPqP2waXk6%2BpJVLPEN60oAM3ug38TQTtk1k8RPK8BTWOZIHN8rdO3LTkOvW8YvgpiUIsPjrFZRlKoyx4I7AlpUn4I%2BowynMILbCUowFMC11KuxbuSwyqwCygrhd0%2B5HPo8UeTqhDRFbJH1a%2F0w670eHL0B7k58uHV2umighyc6rgbZIh9m7gQ%3D%3DTo: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit /api/useraccount://localhost:56786/api/UserAccount/6a323561-00b1-49d1-a398-c4cd19b61469/CfDJ8Ble2LspQa5Jo%2FBTIJmKT5%2F5vHIk7oknNcwnqmfdGmo6jxhcQ3LjcajIVhUgwgfeS5F%2FM02cKBWiM%2BO%2FHVEIbKgVChXW8axZJzAaTMIuxKYSePMw%2Flla%2FMVnkkxmHhX9n0eJW3UI6VZLAO8GS9Gabf%2Baxbu03DEmQ%2B1LeTNmCviIzVjDx6zG%2FIrkWlQOxLRKgXzsljXBM%2BQJrnnfSSbbYLgpWcahGYjSWY3ldg8SBa9TfxBx%2B%2F1UJaSPO2cHcP5VFQ%3D%3DTo: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit /api/useraccount://localhost:56786/api/UserAccount/de932fda-78fa-4fee-a73b-1282d9c4356c%26CfDJ8Ble2LspQa5Jo%2FBTIJmKT5%2FvBiQn1hjkE4z2OluuuKEBXNDmCRmz%2BszRs5wTYoXPelQI6ZWM9%2FfB%2BvEG8nEiRor6x2k5g5TetNb%2BlZKI%2FBWDgFIQW2adiLITP7WF8wmTm9xP7An6clqkBrRYoRKyGVt5xy2%2B%2Ft%2BMJ9zhrbZRWieqUgSkOgX0cG0zoKmOJ9Kn66mgOVQQFdTVnbwualR5GZRGU2uJYz%2Fx7fTsUHAJZBfEwNc1gnmxjrVWs2XxoHQWtw%3D%3DTo: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit http://localhost:56786/api/UserAccount/f3441da9-c94b-4a2d-9d22-7f8d0c7e66f7%26CfDJ8Ble2LspQa5Jo%2FBTIJmKT5%2BejXr6Fws56VDOqFug5sRgbhulo2uSLHjFUMN38HxG%2B102e1FxXls14ikfHIc%2FNZo1WVCviZJN0r%2BVgDJ04sNm8zeFVhtdP1EACa2BT6Nn1EOdWGK6HyAv7oqa5h0sI93qh4o%2B10ibHb5hjCRa%2BRhqKIgqXoGyUrMmaddAx6neTFPDgXFNTnpDj0CzIU%2BqUPcnj1vC0AmgytsY8yYjxyU3Z7r9O5An9Iw4Wl9aA%2Btd%2Fg%3D%3DTo: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit To: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit /api/UserAccount/e45cf981-de2e-47fd-b177-2f2ea9ceaa5a/CfDJ8Ble2LspQa5Jo%2FBTIJmKT5%2FcZMcXB9qic8qGzZ28271q843JjPqtSpTYvvKtwCTu1Z3ziEjXe9Pi19YIjQzR9%2FZ9fGQ%2BCEf1yUsUbxWZDkNNeJ4hX3Pg0tlB3DROHPigsm6JVYtpXJlMjFl3d3bWJFAozPFOFXfg0hre3u3d7GgC1SCDYofc69oq6X0E7z06EkMbgi0vLGW3Pc80UfKNdx6dhJSv4KQUJkzPIq9PsCNATGQjrHCtSPv6M9A9JydcKA%3D%3DTo: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit http://localhost:56786/api/UserAccount/75a9baef-d205-4810-8140-75fb4ec18727/CfDJ8Ble2LspQa5Jo%2FBTIJmKT5%2F5bvnLmfTar%2Bh3TNbEcOR8CHB%2FjyEluvJx2jnXUMf0eqwu5wkoIM98S6oj4dY8hohUodYG7v7z4AHiYAGBRM8YzAbDGQFsLB8zUJlNSK3qGNBLr4h1W7TFP5AAHIhHZtU1UnPfLlMoUy4TNFwcSzp0nR4fb7MmCLvnqIWDQcQrXyayknQzDE1n4vxHuL5XxxcWl9222TuigjB9qRGDyKYB3kEY0QzfBY2261earh3nJw%3D%3DTo: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit http://localhost:56786/api/UserAccount?id=8b6c3254-e5e4-424c-a88d-9cb7a5623ac9&token=CfDJ8Ble2LspQa5Jo%2FBTIJmKT5%2FeAkHt9BcYtQIyxPNrgWeQjV8MNK5L11yMv6bWDnXRJW5MrNgr3YIB4uTgJSdPVwyjzncXicHB1Rmv3qr8M5Yy5d7%2F%2F5gDMtsgyyOFE8PUaAES5bveHWHkGfESR9q%2FiWh2RTq%2FbXQX8aZfud1pY%2F50HvWnIJuF82zY9a%2FXEalv31E4iQNJdcxRfoiW8RaT9udYQY1%2F31E6RUAN8bY%2FfqSX9vvs1YaS%2BPqwdqnzUhISbQ%3D%3DTo: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit http://localhost:56786/api/UserAccount/b80bb8f6-99c7-4d1a-ab6d-18000281e77a/CfDJ8Ble2LspQa5Jo%2FBTIJmKT58tv97v4YfpuEyq9dCR%2BZwWFziRpkipik%2BVwNZYHhB%2F2wv0yvV88YN4f2vlSOvlH%2B4Zno1fR0hQw4fBNGX4Hfi%2FdZv%2ByEi7ulROytDVH1NG3D3rLVZ%2BayLglon2A4RltqoGj7f2McZlv8AEy%2Fe6N9ds8Ybf9Q0%2FfO%2BDq%2BUnMpjiZi4CsQhyd3UmIv7JPGzZa0dfiu2EHU1Q8CyoZezXwCGF7bdpkNvrCVKVXdYMjisEqQ%3D%3DTo: mspiewok@outlook.com
+Subject: Verify your email adress.
+Message: Please visit http://localhost:56786/api/UserAccount/bf3d7f2c-aa48-4994-b9ea-6652c9cb143a/CfDJ8Ble2LspQa5Jo%2FBTIJmKT58COH9BOnz1h7eeiTvlqyUxtESdDWsRPaTbRYKVRxlJJAJnuC3u87j5C0EzVAIC4O3V3Hywuit%2BBLUlNKBG9d7PB%2FzTWXdu553aKs1Iu6AgIqxsQQEPXKf8GPajjEz5Az%2FEoQWpBqo9gjqgazCu3ZTid%2FdY9xV6An2RkRfyN%2F16FqT4X2LGe2fNr9BxOZvD%2BgMr%2Fyh9xxUmLJx1P8ZgxAqRSStumbP%2F15zJrahQvphFxg%3D%3D
